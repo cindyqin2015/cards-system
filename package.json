@@ -9,7 +9,9 @@
   "dependencies": {
     "dva": "^2.1.0",
     "umi": "^1.0.0-0",
-    "umi-plugin-dva": "^0.1.5"
+    "umi-plugin-dva": "^0.1.5",
+    "lodash": "^4.17.10",
+    "lodash-decorators": "^6.0.0"
   },
   "devDependencies": {
     "eslint": "^4.14.0",
